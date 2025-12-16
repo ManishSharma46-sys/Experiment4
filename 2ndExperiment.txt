@@ -3,4 +3,5 @@ the "master" branch. Merge the "feature-branch" into "master."
 i'm opening this file to apple stash
 Creating and Managing Branches: Write the commands to stash your changes, switch 
 branches, and then apply the stashed changes. 
-the "master" branch. Merge the "feature-branch" into "master." 
+the "master" branch. Merge the "feature-branch" into "master."
+I'm opening this file during IA
