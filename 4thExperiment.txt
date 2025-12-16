@@ -1,1 +1,2 @@
 clone a remote git repository to your local machine.
+Fetch the latest changes from a remote repository and rebase your local branch onto the updated remote branch. 
