@@ -1,5 +1,9 @@
 Creating and Managing Branches: Create a new branch named "feature-branch." Switch to 
+<<<<<<< HEAD
 the "master" branch. Merge the "feature-branch" into "master."
 i'm opening this file to apple stash
 Creating and Managing Branches: Write the commands to stash your changes, switch 
 branches, and then apply the stashed changes. 
+=======
+the "master" branch. Merge the "feature-branch" into "master." 
+>>>>>>> feature-branch
