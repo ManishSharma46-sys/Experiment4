@@ -5,3 +5,4 @@ Creating and Managing Branches: Write the commands to stash your changes, switch
 branches, and then apply the stashed changes. 
 the "master" branch. Merge the "feature-branch" into "master."
 I'm opening this file during IA
+opening 2nd time to know stashing.
